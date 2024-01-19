@@ -1,0 +1,1 @@
+An Error Boundary in React acts as a safety net, capturing and managing JavaScript errors within a specific component tree to prevent them from crashing the entire application, offering a means to gracefully handle errors and display fallback content
